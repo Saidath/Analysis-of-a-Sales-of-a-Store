@@ -1,6 +1,6 @@
 # **Superstore Sales Dataset Analysis**
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Saidath/Superstore-Sales-Dataset-Analysis)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Saidath/Analysis-of-a-Sales-of-a-Store)
 
 ## **Overview**
 This project performs an in-depth **Exploratory Data Analysis (EDA)** on the global superstore sales dataset spanning four years. The objective is to uncover sales trends, customer behavior, and regional performance, enabling data-driven business decisions.
@@ -31,7 +31,7 @@ The dataset contains sales records for a global superstore, including:
 ## **Steps to Use**
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Saidath/Superstore-Sales-Dataset-Analysis.git
+   git clone https://github.com/Saidath/Analysis-of-a-Sales-of-a-Store.git
    ```
 
 2. **Navigate to the Project Directory**:
@@ -65,4 +65,4 @@ The dataset contains sales records for a global superstore, including:
 - **Programming Language**: Python  
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 
-Take a look at the repository here: [Superstore Sales Dataset Analysis](https://github.com/Saidath/Superstore-Sales-Dataset-Analysis)
+Take a look at the repository here: [Superstore Sales Dataset Analysis](https://github.com/Saidath/Analysis-of-a-Sales-of-a-Store)
